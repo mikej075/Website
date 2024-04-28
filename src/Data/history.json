@@ -1,0 +1,30 @@
+[
+    {
+      "role": "Techincal Support/Front End Developer",
+      "organisation": "Subway",
+      "startDate": "Aug, 2021",
+      "endDate": "Oct, 2022",
+      "experiences": ["Created a basic Email template for my department, while using HTML/CSS."],
+      "imageSrc": "history/Subway.png"
+    },
+    {
+      "role": "Techincal Support/Front End Developer",
+      "organisation": "Subway",
+      "startDate": "Aug, 2021",
+      "endDate": "Oct, 2022",
+      "experiences": ["Customized the Subway technical support webpage. It was later approved and published."],
+      "imageSrc": "history/Subway.png"
+    },
+    {
+      "role": "Application Support Specialist",
+      "organisation": "BOE",
+      "startDate": "Oct 2022",
+      "endDate": "Current",
+      "experiences": [
+        "Created Enterprise reports with custom PowerQueries in APEX report builder.",
+        "Used tlist_sql, and Jquery to manipulate and customize PowerSchool webpages."
+      ],
+      "imageSrc": "history/education.png"
+    }
+  ]
+  

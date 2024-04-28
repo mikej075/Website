@@ -1,0 +1,27 @@
+[
+    {
+      "description": "Getting started with Git and GitHub Course",
+      "demo": "certificates/certificate.png",
+      "skills": ["Coursera"],
+      "source": "https://drive.google.com/file/d/1km79ty3OhOHovmJXTaCntwp6uuBH-W6d/view"
+    },
+    {
+      "description": "Python for Data Science, AI & Development",
+      "demo": "certificates/certificate.png",
+      "skills": ["Coursera"],
+      "source": "https://drive.google.com/file/d/1AYm_CA02OxURdsmF5LFV6yAJCeGi9X1t/view"
+    },
+    {
+      "description": "Introduction to Web Develpment With HTML, CSS, Javascript",
+      "demo": "certificates/certificate.png",
+      "skills": ["Coursera"],
+      "source": "https://drive.google.com/file/d/1OHLBeVp9-JIiE9OXMb4ymfR_OSPMnNzK/view"
+    },
+    {
+      "description": "Introduction to Cloud Computing",
+      "demo": "certificates/certificate.png",
+      "skills": ["Coursera"],
+      "source": "https://drive.google.com/file/d/1mlSw2Tyt6_W83EaAPAmLROag0-lu0zSM/view"
+    }
+  ]
+  

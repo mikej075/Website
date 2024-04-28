@@ -1,0 +1,31 @@
+[
+    {
+      "title": "Project A",
+      "imageSrc": "projects/coding.jpg",
+      "description": "I created a weather app using React, HTML, CSS, and JS. Enter your location.",
+      "skills": ["React", "JS", "CSS"],
+      "source": "https://www.github.com/mikej075/Weatherapp"
+    },
+    {
+      "title": "Project B",
+      "imageSrc": "projects/coding.jpg",
+      "description": "Used a switch statement asking a user to choose a number between 1 and 3.",
+      "skills": ["Java"],
+      "source": "https://www.github.com/mikej075/Mathseries"
+    },
+    {
+      "title": "Project C",
+      "imageSrc": "projects/coding.jpg",
+      "description": "This project calculates the average Project, Test, and Class percentage grades.",
+      "skills": ["Java"],
+      "source": "https://www.github.com/mikej075/GradeAverage"
+    },
+    {
+      "title": "Project D",
+      "imageSrc": "projects/coding.jpg",
+      "description": "Created a function that displays the Maximum, Minimum, and averages.",
+      "skills": ["Java"],
+      "source": "https://www.github.com/mikej075/Arrays"
+    }
+  ]
+  
